@@ -17,25 +17,25 @@ This project demonstrates how data engineering and simple NLP logic can be combi
 
 ## 📈 Dataset Columns  : 
 
-Column              	Description
+Column        |        Description
 
-Company	              Company name
+Company	      |        Company name
 
-Year	                Financial year
+Year	        |        Financial year
 
-Total_Revenue       	Annual revenue
+Total_Revenue |     	Annual revenue
 
-Net_Income	          Annual profit
+Net_Income	  |        Annual profit
 
-Total_Assets	        Total assets
+Total_Assets	|       Total assets
 
-Total_Liabilities   	Total liabilities
+Total_Liabilities  | 	Total liabilities
 
-Cash_Flow_Operations	Cash flow from operations
+Cash_Flow_Operations |	Cash flow from operations
 
-Total_Revenue_YoY_%	  Revenue growth %
+Total_Revenue_YoY_%	 | Revenue growth %
 
-Net_Income_YoY_%	    Profit growth %
+Net_Income_YoY_%	 |   Profit growth %
 
 
 ## 🚀  Further Enhancements  : 
