@@ -20,14 +20,23 @@ This project demonstrates how data engineering and simple NLP logic can be combi
 Column              	Description
 
 Company	              Company name
+
 Year	                Financial year
+
 Total_Revenue       	Annual revenue
+
 Net_Income	          Annual profit
+
 Total_Assets	        Total assets
+
 Total_Liabilities   	Total liabilities
+
 Cash_Flow_Operations	Cash flow from operations
+
 Total_Revenue_YoY_%	  Revenue growth %
+
 Net_Income_YoY_%	    Profit growth %
+
 
 ## 🚀  Further Enhancements  : 
 
